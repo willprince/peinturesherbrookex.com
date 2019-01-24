@@ -17,6 +17,4 @@ app.get("/NosRealisation" , function(req, res) {
         res.render("NosRealisation");
 });
 //Start the server
-app.listen(3000, process.env.IP, function (x){
-        console.log('Server started');
-});
+app.listen(process.env.PORT, process.env.IP);
