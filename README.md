@@ -5,5 +5,4 @@ This is my first ever project done for a friend of mine. The project will shortl
 # Language used
 -HTML/CSS/nodeJS
 # Packages
--express
--ejs
+-express/ejs
