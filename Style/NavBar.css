@@ -1,0 +1,43 @@
+
+
+
+
+#logo{
+    height: 75px;
+
+
+
+}
+
+
+
+.navbar-fixed-top {
+
+font-size: 15px;
+
+}
+
+
+.orange-background {background-color:orange;}
+.border {
+    border-color:orange;
+}
+
+#button{
+    border-color:orange;
+    background-color:rgb(244, 117, 33);
+    font-weight: bold;
+    margin-left:125px;
+    
+}
+
+#navbar ul{
+    padding-left: 10%;
+
+
+}
+
+#naver {
+    padding-top: 15px;
+    font-family: "Open Sans", sans-serif;
+}

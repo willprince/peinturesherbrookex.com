@@ -1,0 +1,220 @@
+
+#MainPic {    
+    background-image: url("../MainIMG.jpg");
+    background-size: cover;
+    background-position: center; 
+    background-repeat:no-repeat;
+
+}
+
+.navbar-header{
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+
+body,
+html {
+    font-family: "Lato";
+
+}
+
+nav li {
+    font-size: larger;
+
+    
+}
+
+#MainPic {
+    padding-bottom: 150px;
+    padding-top:25%;
+	text-align: center;
+    text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+                 0px 8px 13px rgba(0,0,0,0.1),
+                 0px 18px 23px rgba(0,0,0,0.1);
+    color: white;
+    font-weight: 900;
+	font-size: 10px;
+    font-family: "Lato", serif;
+
+	
+}
+
+.highlighted {
+    background-color: rgba(0,0,0,.5);
+    color: white;
+        text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+                 0px 8px 13px rgba(0,0,0,0.1),
+                 0px 18px 23px rgba(0,0,0,0.1);
+}
+
+#MainPic hr {
+    width: 400px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+
+span{
+    color:rgb(252, 211, 61);
+}
+
+#MainPic h1 {
+	font-weight: 900px;
+	font-size: 8em;
+    font-family: "Lato", serif;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+                 0px 8px 13px rgba(0,0,0,0.1),
+                 0px 18px 23px rgba(0,0,0,0.1);
+	
+}
+
+
+
+
+
+#Services ul li{
+    
+    text-align: left;
+    list-style-type: none;
+    font-size: 2em;
+    padding-top: 10px;
+
+    
+}
+
+#Services table{
+    margin-top: 75px;
+}
+
+#Services tr td{
+    font-size: 2em;
+}
+
+#Services.container {
+    padding-top: 25px;
+}
+
+
+#Services h2{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 3em;
+    margin-bottom: 20px;
+
+}
+
+
+#Services h1{
+    text-align: center;
+    padding-top: 20px;
+}
+
+#Services p{
+    font-size: medium    ;
+    font-family: "Cabin";
+    padding-bottom: 100px;
+    line-height: 1.8;
+    text-align: center;
+}
+
+
+
+.content2{
+    text-align: center;
+}
+
+#Realisations{
+
+    text-align: center;
+    padding-top: 25px;
+}
+
+#Realisations h2{
+    font-size: 3em;
+}
+
+
+#images{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+#Contact{
+    margin-top: 50px;
+    margin-bottom: 200px;
+}
+
+
+
+#Contact ul li{
+    width: 33%;
+    float: left;
+
+    text-align: center;
+    list-style-type: none;
+}
+
+#Contact h1 {
+    text-align: center;
+}
+
+#Contact h2{
+    font-size: medium;
+}
+
+#Temoignage h1{
+    padding-top: 200px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+
+#Temoignage ul li{
+    width: 33%;
+    float: left;
+    text-align: center;
+    list-style-type: none;
+}
+
+#Temoignage p{
+    font-size: medium    ;
+    font-family: "Cabin";
+    padding-bottom: 100px;
+    line-height: 2;
+    margin-left:50px;
+    text-align: center;
+}
+
+
+.bgimage {
+    padding-top: 1500px;
+  width:100%;
+  height:500px;
+      background-image: url("../Image/MainIMG.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover;
+  background-attachment: fixed;
+  
+}
+.bgimage h5 {
+  color:white;
+  text-shadow:2px 2px #333;
+}
+
+#Services2 {
+    margin-left: 150px;
+}
+
+#carouselExampleIndicators {
+    margin-top: 300px;
+}
+
+#log {
+    word-spacing: 8px;
+    font-family: "Lato";
+    color: #B1B1B1;
+    
+}
